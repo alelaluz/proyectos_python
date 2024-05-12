@@ -1,0 +1,5 @@
+Se utilizan dos librerias:
+pyshorteners -> acorta la url
+streamlit -> crea la web
+qrcode-> genera el Qr
+
